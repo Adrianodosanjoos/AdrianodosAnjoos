@@ -23,3 +23,12 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Oi <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"/>, sou Adriano dos Anjos <a href ="https://github.com/AdrianodosAnjoos?tab=repositories/" target="blank">
+
+  
+  <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"/>   Conecte-se comigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"/> </h3>
+<div align="center" class="icons-social" style="margin-left: 10px;">
+<a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/adriano-luiz-a637771a3/">
+<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+<a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/adriano_dos_anjoos/">
+<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+</div>
