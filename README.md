@@ -1,7 +1,4 @@
-
-
-  ### Hi there, reach me on
-  <a (https://www.linkedin.com/in/adrianoluizdosanjos/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="Linkedin"></a>  
+ 
 
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills.
